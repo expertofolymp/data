@@ -418,5 +418,250 @@
     "riddle": "I am known as the god of wine and festivity. Who am I?",
     "options": ["Dionysus", "Apollo", "Hades", "Hermes"],
     "answer": "Dionysus"
+  },
+  {
+    "riddle": "I was the hero who captured the Golden Fleece. Who am I?",
+    "options": ["Jason", "Perseus", "Heracles", "Odysseus"],
+    "answer": "Jason"
+  },
+  {
+    "riddle": "I am the goddess of the harvest and agriculture. Who am I?",
+    "options": ["Demeter", "Hera", "Artemis", "Athena"],
+    "answer": "Demeter"
+  },
+  {
+    "riddle": "I was the monster that guarded the Golden Fleece. Who am I?",
+    "options": ["Dragon", "Chimera", "Hydra", "Cerberus"],
+    "answer": "Dragon"
+  },
+  {
+    "riddle": "I was the nymph who helped Zeus hide from Hera. Who am I?",
+    "options": ["Calypso", "Io", "Echo", "Daphne"],
+    "answer": "Calypso"
+  },
+  {
+    "riddle": "I was the hero who retrieved the golden apples from the Hesperides. Who am I?",
+    "options": ["Heracles", "Theseus", "Odysseus", "Jason"],
+    "answer": "Heracles"
+  },
+  {
+    "riddle": "I am the god of the underworld, brother of Zeus. Who am I?",
+    "options": ["Hades", "Poseidon", "Cronus", "Ares"],
+    "answer": "Hades"
+  },
+  {
+    "riddle": "I was the goddess who turned into a bird to escape a god's advances. Who am I?",
+    "options": ["Aphrodite", "Daphne", "Io", "Calliope"],
+    "answer": "Daphne"
+  },
+  {
+    "riddle": "I was the king of the gods who wielded thunder. Who am I?",
+    "options": ["Zeus", "Hades", "Poseidon", "Cronus"],
+    "answer": "Zeus"
+  },
+  {
+    "riddle": "I was the hero who built the Trojan Horse. Who am I?",
+    "options": ["Odysseus", "Achilles", "Perseus", "Hector"],
+    "answer": "Odysseus"
+  },
+  {
+    "riddle": "I was the winged horse born from Medusa's blood. Who am I?",
+    "options": ["Pegasus", "Cerberus", "Chimera", "Griffin"],
+    "answer": "Pegasus"
+  },
+  {
+    "riddle": "I was the queen of the Amazons. Who am I?",
+    "options": ["Hippolyta", "Penthesilea", "Artemis", "Athena"],
+    "answer": "Hippolyta"
+  },
+  {
+    "riddle": "I was the first mortal to die because of my beauty. Who am I?",
+    "options": ["Narcissus", "Echo", "Medusa", "Helen"],
+    "answer": "Narcissus"
+  },
+  {
+    "riddle": "I was the god who watched over travelers and thieves. Who am I?",
+    "options": ["Hermes", "Apollo", "Dionysus", "Ares"],
+    "answer": "Hermes"
+  },
+  {
+    "riddle": "I was the hero known for my great strength and twelve labors. Who am I?",
+    "options": ["Heracles", "Theseus", "Odysseus", "Perseus"],
+    "answer": "Heracles"
+  },
+  {
+    "riddle": "I was the goddess of wisdom, often seen with an owl. Who am I?",
+    "options": ["Athena", "Artemis", "Demeter", "Hera"],
+    "answer": "Athena"
+  },
+  {
+    "riddle": "I was the king who could turn everything to gold. Who am I?",
+    "options": ["Midas", "Minos", "Hector", "Achilles"],
+    "answer": "Midas"
+  },
+  {
+    "riddle": "I was the hero who faced the three-headed dog. Who am I?",
+    "options": ["Heracles", "Perseus", "Odysseus", "Theseus"],
+    "answer": "Heracles"
+  },
+  {
+    "riddle": "I was the goddess associated with victory. Who am I?",
+    "options": ["Nike", "Athena", "Hera", "Artemis"],
+    "answer": "Nike"
+  },
+  {
+    "riddle": "I was the hero known for my tragic fate at Troy. Who am I?",
+    "options": ["Achilles", "Hector", "Odysseus", "Perseus"],
+    "answer": "Achilles"
+  },
+  {
+    "riddle": "I was the giant who tried to reach Olympus. Who am I?",
+    "options": ["Typhon", "Atlas", "Gaea", "Cronus"],
+    "answer": "Typhon"
+  },
+  {
+    "riddle": "I was the goddess of the moon and hunting. Who am I?",
+    "options": ["Artemis", "Hera", "Demeter", "Athena"],
+    "answer": "Artemis"
+  },
+  {
+    "riddle": "I was the hero who had a weakness for women. Who am I?",
+    "options": ["Achilles", "Odysseus", "Heracles", "Perseus"],
+    "answer": "Achilles"
+  },
+  {
+    "riddle": "I was the nymph who fell in love with the god of the underworld. Who am I?",
+    "options": ["Persephone", "Echo", "Daphne", "Io"],
+    "answer": "Persephone"
+  },
+  {
+    "riddle": "I was the goddess of beauty and love. Who am I?",
+    "options": ["Aphrodite", "Athena", "Hera", "Artemis"],
+    "answer": "Aphrodite"
+  },
+  {
+    "riddle": "I was the hero who solved the riddle of the Sphinx. Who am I?",
+    "options": ["Oedipus", "Theseus", "Heracles", "Perseus"],
+    "answer": "Oedipus"
+  },
+  {
+    "riddle": "I was the son of Zeus who was a master craftsman. Who am I?",
+    "options": ["Hephaestus", "Hermes", "Ares", "Apollo"],
+    "answer": "Hephaestus"
+  },
+  {
+    "riddle": "I was the nymph punished to repeat what others say. Who am I?",
+    "options": ["Echo", "Daphne", "Arethusa", "Calliope"],
+    "answer": "Echo"
+  },
+  {
+    "riddle": "I was the hero who ventured to the underworld. Who am I?",
+    "options": ["Orpheus", "Heracles", "Odysseus", "Theseus"],
+    "answer": "Orpheus"
+  },
+  {
+    "riddle": "I was the titan who personified time. Who am I?",
+    "options": ["Cronus", "Uranus", "Oceanus", "Hyperion"],
+    "answer": "Cronus"
+  },
+  {
+    "riddle": "I was the goddess of the hunt and wilderness. Who am I?",
+    "options": ["Artemis", "Hera", "Demeter", "Athena"],
+    "answer": "Artemis"
+  },
+  {
+    "riddle": "I was the hero known for my agility and speed. Who am I?",
+    "options": ["Atalanta", "Achilles", "Odysseus", "Perseus"],
+    "answer": "Atalanta"
+  },
+  {
+    "riddle": "I was the mortal who became a constellation after my death. Who am I?",
+    "options": ["Orion", "Achilles", "Hercules", "Perseus"],
+    "answer": "Orion"
+  },
+  {
+    "riddle": "I was the creature with the body of a lion and the head of a human. Who am I?",
+    "options": ["Sphinx", "Chimera", "Minotaur", "Hydra"],
+    "answer": "Sphinx"
+  },
+  {
+    "riddle": "I was the ruler of the winds. Who am I?",
+    "options": ["Aeolus", "Zephyrus", "Boreas", "Notus"],
+    "answer": "Aeolus"
+  },
+  {
+    "riddle": "I was the mortal who became a goddess after my death. Who am I?",
+    "options": ["Hecate", "Persephone", "Athena", "Demeter"],
+    "answer": "Hecate"
+  },
+  {
+    "riddle": "I was the goddess of the dawn. Who am I?",
+    "options": ["Eos", "Selene", "Hecate", "Athena"],
+    "answer": "Eos"
+  },
+  {
+    "riddle": "I was the hero who faced the Cyclops. Who am I?",
+    "options": ["Odysseus", "Perseus", "Heracles", "Theseus"],
+    "answer": "Odysseus"
+  },
+  {
+    "riddle": "I was the first woman created by the gods. Who am I?",
+    "options": ["Pandora", "Eve", "Hera", "Athena"],
+    "answer": "Pandora"
+  },
+  {
+    "riddle": "I was the goddess of the hearth and home. Who am I?",
+    "options": ["Hestia", "Demeter", "Hera", "Athena"],
+    "answer": "Hestia"
+  },
+  {
+    "riddle": "I was the hero known for my great intelligence and cunning. Who am I?",
+    "options": ["Odysseus", "Achilles", "Heracles", "Theseus"],
+    "answer": "Odysseus"
+  },
+  {
+    "riddle": "I was the goddess of fate. Who am I?",
+    "options": ["Clotho", "Lachesis", "Atropos", "Eris"],
+    "answer": "Clotho"
+  },
+  {
+    "riddle": "I was the king who was turned into a stag. Who am I?",
+    "options": ["Actaeon", "Narcissus", "Orion", "Hercules"],
+    "answer": "Actaeon"
+  },
+  {
+    "riddle": "I was the goddess who personified discord. Who am I?",
+    "options": ["Eris", "Aphrodite", "Athena", "Hera"],
+    "answer": "Eris"
+  },
+  {
+    "riddle": "I was the hero who sought vengeance against the Titans. Who am I?",
+    "options": ["Zeus", "Hercules", "Theseus", "Poseidon"],
+    "answer": "Zeus"
+  },
+  {
+    "riddle": "I was the daughter of Demeter and goddess of spring. Who am I?",
+    "options": ["Persephone", "Hestia", "Artemis", "Athena"],
+    "answer": "Persephone"
+  },
+  {
+    "riddle": "I was the giant who was punished to hold up the sky. Who am I?",
+    "options": ["Atlas", "Cronus", "Gaea", "Uranus"],
+    "answer": "Atlas"
+  },
+  {
+    "riddle": "I was the goddess associated with the moon. Who am I?",
+    "options": ["Selene", "Hecate", "Artemis", "Athena"],
+    "answer": "Selene"
+  },
+  {
+    "riddle": "I was the hero who killed the Minotaur. Who am I?",
+    "options": ["Theseus", "Perseus", "Heracles", "Achilles"],
+    "answer": "Theseus"
+  },
+  {
+    "riddle": "I was the messenger of the gods. Who am I?",
+    "options": ["Hermes", "Apollo", "Ares", "Dionysus"],
+    "answer": "Hermes"
   }
 ]
