@@ -42,6 +42,20 @@
             "img": "https://i.ibb.co/vBC26sv/uranus.png",
             "price": 1500,
             "description": "Uranus, in Greek mythology, is the god of the sky. According to Hesiod, Gaia gave birth to Uranus and made him her consort. Uranus and Gaia had many children, including the Titans, Cyclopes, and Hecatoncheires. Uranus hated his children and imprisoned them in the Earth. Kronos, the youngest Titan, overthrew Uranus by castrating him with a sickle. From the blood of Uranus, the Erinyes, Giants, and Meliae were born. According to one myth, Aphrodite was born from the sea foam created by Uranus' severed genitals."
+          },
+          {
+            "id": 95,
+            "name": "Triton",
+            "img": "https://i.ibb.co/cTgncLF/triton.jpg",
+            "price": 1500,
+            "description": "Triton Τρίτων, in Greek mythology, a sea deity. Son of Poseidon and Amphitrite, brother of the nymph Rhoda. The upper part of Triton's body was like that of a man, the lower part was like that of a fish. According to Hesiod, Triton lived in the depths of the sea in a golden house, next to his parents. Provided assistance to the Argonauts during their journey."
+          },
+          {
+            "id": 96,
+            "name": "Eriniya",
+            "img": "https://i.ibb.co/WpMw10j/erini.jpg",
+            "price": 1500,
+            "description": "Eriniya Ερινύες; in the singular Ἐρινύς – Erin, from ἐρινύς – curse of the Bane, in Greek mythology, the goddess of vengeance. They were spawned by Gaia, who absorbed drops of the blood of Uranus, castrated by Kronos. It is generally believed that the Erinii had three Alecto, Tisiphone, and Vixen. Orestes, accompanied by Apollo and pursued by Erinia. An image on a red-figure crater. 450-440 BC Orestes, accompanied by Apollo and pursued by Erinia. An image on a red-figure crater. 450-440 BC is attributed to the vase painter Orestes. The British Museum, London. The Erinii were represented as old women with tangles of snakes instead of hair, in black robes, with lighted torches in their hands. Emerging from the kingdom of Hades, the Erinii relentlessly pursued perjurers and murderers, especially murderers of blood relatives. In one of the tragedies of Aeschylus, the Erinii drove Orestes to madness, who killed his own mother. However, after the acquittal of Orestes in the Areopagus court in Athens, the Erinii became the patrons of Attica, receiving a new name – Eumenides the Benevolent. In Roman mythology, the furies correspond to the Erinii."
           }
         ]
       },
@@ -70,6 +84,48 @@
             "img": "https://i.ibb.co/zZZhfx1/tiresiy.jpg",
             "price": 700,
             "description": "Tiresias, in Greek mythology, was a blind prophet from Thebes. According to myth, he was blinded either for revealing divine secrets or because he saw Athena bathing. He was later granted the gift of prophecy. Tiresias played a role in many famous myths, including those of Oedipus and Odysseus."
+          },
+          {
+            "id": 104,
+            "name": "Pygmalion",
+            "img": "https://i.ibb.co/XXNzhqq/pigmalion.jpg",
+            "price": 700,
+            "description": "Pygmalion ΠυγμαλίΩν, in Greek mythology, according to Apollodorus, the king of Cyprus. The most famous Pygmalion story goes back to Jean-Leon Jerome. Pygmalion and Galatea. Ca. 1890 Jean-Leon Jerome. Pygmalion and Galatea. OK. 1890. The Metropolitan Museum of Art, New York. to Ovid's Metamorphoses. In his account, Pygmalion is a sculptor, an ivory carver who lived in Cyprus. He avoided women, but embodied his ideal of feminine beauty in a statue of a beautiful girl. Pygmalion fell in love with his creation and at the feast of Aphrodite turned to the goddess with a prayer that she would send him a wife similar to the statue he  Aphrodite heeded Pygmalion's request and breathed life into the statue. Aphrodite herself was present at Pygmalion's wedding, which gave Pygmalion good health and long years of life. The couple had sons Paphos the eponym of the city in Cyprus, the famous center of worship of Aphrodite and Kinir, who, according to Ovid, became the father of Adonis."
+          },
+          {
+            "id": 105,
+            "name": "Pleiades",
+            "img": "https://i.ibb.co/Gx24QS6/Pleiades.jpg",
+            "price": 700,
+            "description": "Pleiades πλειάδες, in Greek mythology, the seven daughters of the titan Atlantean and the Oceanides Pleiones. The sisters of Hyas and Hyades. They were born in Killen Arcadia. The six sisters were the beloved of the gods. From Zeus, Maya, the eldest of the sisters, gave birth to Hermes, Taygetus – Lacedaemon, and Electra – Dardan. By Poseidon, Alcyone had a son, Girieus, Kelen – Lik. Sterope gave birth to Oenomaus by Ares. Only Merope married a mortal, Sisyphus. After the death of Hyas on the hunt and the death of Hyades from grief, turned into stars by Zeus, the Pleiades took their own lives or died of tears and also became a constellation. According to another version, Orion unsuccessfully pursued them for 7 years, until Zeus, out of pity for them, placed the fugitives among the constellations."
+          },
+          {
+            "id": 106,
+            "name": "Orion",
+            "img": "https://i.ibb.co/yXywngy/oreon.jpg",
+            "price": 700,
+            "description": "Orion, in Greek mythology, is a giant, the son of Poseidon and Euryale, the daughter of Minos, according to another version, was born by the goddess Gaia. He got the ability to walk on the sea from Poseidon. Orion was blinded on fr. Chios Oenopion Oenopion, when he wooed his daughter Merope, according to one version, he committed violence against her. However, Orion regained his eyesight by exposing his eyes to the rays of the rising sun. Nicola Poussin. The blinded Orion is looking for the rising sun. 1658 Nicolas Poussin. The blinded Orion is looking for the rising sun. 1658. The Metropolitan Museum of Art, New York. He was famous as a hunter. According to Pseudo-Eratosthenes, while hunting with the goddesses Artemis and Leto on the island of Crete, Orion allegedly began to threaten that he would exterminate all animals on earth. Then the angry Gaia created a huge scorpion, which killed Orion option: Artemis sent the scorpion when he fell in love with her. Zeus placed Orion and Scorpio in the sky as constellations. According to Apollodorus, Orion was shot with an arrow by Artemis on the island of Delos, either when he dared to challenge her to a competition, or when he committed violence against the Hyperborean virgin Opis. According to Homer, Orion was shot by Artemis after being kidnapped by the infatuated goddess Eos."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Mythological creatures",
+        "img": "https://i.ibb.co/new-image-hero.jpg",
+        "goods": [
+          {
+            "id": 201,
+            "name": "Egeria",
+            "img": "https://i.ibb.co/3mHSVGb/egeria.jpg",
+            "price": 500,
+            "description": "Egeria in mythology, a nymph in Roman mythology and legendary history. She is known as an advisor and mentor in the sacred affairs of the second Roman king, Numa Pompilius, the creator of the Roman social and religious system. In some versions, she is represented as the mistress or wife of the king. This myth is a reflection of the widespread ritual of the sacred marriage of the king and the patron goddess of this community. In ancient historiography, since the end of the Republic, the story of Egeria was considered a pious invention of the king in order to successfully pass his laws among the militant and unenlightened crowd of the first Romans. The tsar's meetings with the nymph took place in a grove, which he dedicated to the stone nymphs of the springs, identified with the muses. Egeria was considered one of them. The spring dedicated to her was used by the Vestals, who daily took water there for religious needs. This grove was located near the Capen Gate in the south-east of Rome.In addition, Egeria was worshipped near the city of Aricia, 27 km southeast of Rome, in the grove of Diana their cults subsequently merged. Weeping here from grief after Numa's death, Egeria thereby violated the sacred rites, for which she was turned into a source by Diana Ovid. Metamorphoses. XV. 479-492; 547-551. Perhaps the cult of Egeria in Rome was borrowed from Aricius.Egeria, like Diana and the stones, was also revered as a maternity goddess, whose name, according to the church writer Pavel Deacon, was derived from the verb egero, which means to pull out from the womb."
+          },
+          {
+            "id": 202,
+            "name": "Erato",
+            "img": "https://i.ibb.co/L0tdg4H/erada.jpg",
+            "price": 700,
+            "description": "Erato Greek. ερατώ, literally – Sweetheart, in Greek mythology, the muse of love poetry. One of the 9 Muses, daughters of Zeus and Mnemosyne. In Hellenistic and Roman times, Erato was depicted as a girl holding a lyre and a plectrum in her hands."
           }
         ]
       }
